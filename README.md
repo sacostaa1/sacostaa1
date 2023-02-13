@@ -13,7 +13,7 @@ professional growth. I'm passionate about
 Programming and learning.
 
 ---
-
+---
 ### Spotify Playing 🎧
 <[![Spotify](https://novatorem-3lnxzqg93-itssam0.vercel.app/api/spotify)](https://open.spotify.com/user/4u7x7xrsumeg7p1dciy5wqh4h)
 
@@ -45,4 +45,4 @@ Programming and learning.
 
 </div>
 
----
+
