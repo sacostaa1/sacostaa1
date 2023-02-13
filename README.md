@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+
+### Spotify Playing 🎧
+<[![Spotify](https://novatorem-3lnxzqg93-itssam0.vercel.app/api/spotify)](https://open.spotify.com/user/4u7x7xrsumeg7p1dciy5wqh4h)
 <!--
 **itssam0/itssam0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
