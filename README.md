@@ -5,7 +5,12 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sacostaa1@eafit.edu.co)
 [![Instagram](https://img.shields.io/badge/-Instagram-7B2DEC?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/sam.acos?igshid=ZDdkNTZiNTM=)
 
+A Software engineering student at EAFIT University...
 
+It encourages me to develop my
+knowledge and skills for
+professional growth. I'm passionate about
+Programming and learning.
 
 ---
 
