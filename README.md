@@ -18,7 +18,13 @@ Programming and learning.
 <[![Spotify](https://novatorem-3lnxzqg93-itssam0.vercel.app/api/spotify)](https://open.spotify.com/user/4u7x7xrsumeg7p1dciy5wqh4h)
 
 ---
+### Languages 🌎
+- Spanish (Native Speaker)
+- English (B1 Intermediate)
 
+
+---
+---
 ### Tech & Tools Preference
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
