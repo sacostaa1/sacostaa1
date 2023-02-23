@@ -13,17 +13,12 @@ professional growth. I'm passionate about
 Programming and learning.
 
 ---
----
-### Spotify Playing 🎧
-<[![Spotify](https://novatorem-3lnxzqg93-itssam0.vercel.app/api/spotify)](https://open.spotify.com/user/4u7x7xrsumeg7p1dciy5wqh4h)
 
----
 ### Languages 🌎
 - Spanish (Native Speaker)
 - English (B1 Intermediate)
 
 
----
 ---
 ### Tech & Tools Preference
 
@@ -44,7 +39,6 @@ Programming and learning.
 
 ---
 
----
 <div align = "center">
   
 ![itssam0 GitHub stats](https://github-readme-stats.vercel.app/api?username=itssam0&show_icons=true&hide_border=true)
