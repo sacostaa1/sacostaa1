@@ -80,13 +80,20 @@ Programming and learning.
 ---
 
 <div align="center">
- 
-| ![itssam0 GitHub stats](https://github-readme-stats.vercel.app/api?username=itssam0&show_icons=true&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itssam0&layout=compact) |
-|---|---|
+<h3>⚙️ &nbsp; GitHub Analytics</h3>
+ </div>
+<div align="center">
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![](https://github-readme-stats.vercel.app/api?username=itssam0&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=itssam0&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=itssam0&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=itssam0&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 </div>
+
 
 
 
