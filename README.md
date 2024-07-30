@@ -12,6 +12,9 @@ Programming and learning.
 
 📫 How to reach me **sacostaa1@eafit.edu.co** / **samuelacostaaristizabal1@gmail.com**
 
+[![](https://visitcount.itsvg.in/api?id=itssam0&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 ---
 
 ### Languages 🌎
@@ -88,8 +91,8 @@ Programming and learning.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=itssam0&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itssam0&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=itssam0&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 
 </div>
