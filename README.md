@@ -15,6 +15,18 @@ Programming and learning.
 [![](https://visitcount.itsvg.in/api?id=itssam0&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord," />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+
 ---
 
 ### Languages 🌎
