@@ -1,5 +1,5 @@
 ### Hi there 😎
-### This is Sam Acosta!
+### This is Sam Acosta! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 
 
@@ -12,17 +12,19 @@ Programming and learning.
 
 📫 How to reach me **sacostaa1@eafit.edu.co** / **samuelacostaaristizabal1@gmail.com**
 
+<div align="center">
+
 [![](https://visitcount.itsvg.in/api?id=itssam0&icon=0&color=0)](https://visitcount.itsvg.in)
 
+</div>
 
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord," />
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=discord" />
   </a>
-  <a href="https://skillicons.dev">
+  <a href="https://www.instagram.com/sam.acos?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/samuel-acosta-aristiz%C3%A1bal-a71b6324b/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
@@ -31,8 +33,19 @@ Programming and learning.
 
 ### Languages 🌎
 - Spanish (Native Speaker)
-- English (B1 Intermediate)
+- **English** (B1 Intermediate)
 
+
+---
+<div align="center">
+<h2>CodeWars</h2>
+ </div>
+ 
+<div align="center">
+  <a href="https://github.com/ignacio-cuadra/github-readme-codewars">
+    <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=itssam0&theme=dark" alt="Github Readme Codewars" />
+  </a>
+</div>
 
 ---
 
