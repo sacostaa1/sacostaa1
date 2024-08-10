@@ -47,7 +47,8 @@ Programming and learning.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <div align="center">
-<h2>CodeWars</h2>
+ 
+<h2> CodeWars  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50px"></h2>
  </div>
  
 <div align="center">
