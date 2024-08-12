@@ -2,6 +2,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+welcome+to+my+Github+page;I'm+Sam;I'm+software+engineering)](https://git.io/typing-svg)
 
+<h3 align="center">Junior fullstack developer</h3>
 
 </div>
 
