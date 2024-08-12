@@ -4,10 +4,12 @@
 
 <h3 align="center">Junior fullstack developer</h3>
 
+[![](https://visitcount.itsvg.in/api?id=itssam0&icon=0&color=0)](https://visitcount.itsvg.in)
+
 </div>
 
 #### I'm Sam Acosta! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-[![](https://visitcount.itsvg.in/api?id=itssam0&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 A Software engineering student at EAFIT University...                     
 
