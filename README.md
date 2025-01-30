@@ -18,50 +18,34 @@ knowledge and skills for
 professional growth. I'm passionate about
 Programming and learning.
 
- <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>  How to reach me **sacostaa1@eafit.edu.co** / **samuelacostaaristizabal1@gmail.com**
-
-<div align="center">
+How to reach me **sacostaa1@eafit.edu.co** / **samuelacostaaristizabal1@gmail.com**
 
 
-
-</div>
-
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
-  <a href="https://www.instagram.com/sam.acos?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/samuel-acosta-aristiz%C3%A1bal-a71b6324b/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
 
 
 <br>
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<hr>
 
 ### Languages 🌎
 - Spanish (Native Speaker)
 - **English** (B1 Intermediate)
+- Portuguese (Newbie, currently learning it)
 
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <div align="center">
- 
-<h2> CodeWars  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50px"></h2>
- </div>
- 
-<div align="center">
-  <a href="https://www.codewars.com/users/itssam0">
-    <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=itssam0&theme=dark" alt="Github Readme Codewars" />
-  </a>
+    <h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp; GitHub Analytics</h3>
 </div>
 
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=sacostaa1&theme=dark&hide_border=true&include_all_commits=false&count_private=false" 
+         alt="GitHub Stats" />  
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sacostaa1&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&langs_count=8" 
+         alt="Top Languages" />
+</div>
 <br>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <div align="center">
@@ -89,102 +73,38 @@ Programming and learning.
   </a>
 </p>
 
-  <div align="center">
-<h6>DataBase</h6>
- </div>
-
-<p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite" />
-  </a>
-</p>
+<hr>
 
 
- <div align="center">
-<h6>DevOps</h6>
- </div>
-
- <p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=gcp,aws,azure" />
-  </a>
-</p>
- 
 <div align="center">
-<h6>Operathing Systems</h6>
- </div>
 
- <p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=linux,,windows,,mint" />
-  </a>
-</p>
-
-<br>
-<div align="center">
-<h3>The most used</h3>
- </div>
-
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
+<table style="border-collapse: collapse; border: 0;">
   <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96"> 
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" alt="Django" />
-      <br>Django
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="Nodejs" />
-      <br>AWS
-    </td>              
- </tr>
+    <td align="center" style="border: 0;"><h6>Database</h6></td>
+    <td align="center" style="border: 0;"><h6>DevOps</h6></td>
+    <td align="center" style="border: 0;"><h6>Operating Systems</h6></td>
+  </tr>
+  <tr>
+    <td align="center" style="border: 0;"><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite" /></td>
+    <td align="center" style="border: 0;"><img src="https://skillicons.dev/icons?i=gcp,aws,azure" /></td>
+    <td align="center" style="border: 0;"><img src="https://skillicons.dev/icons?i=linux,windows,mint" /></td>
+  </tr>
 </table>
+
+   
 </div>
 
-<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
 <div align="center">
-<h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp; GitHub Analytics</h3>
+ 
+<h2> CodeWars  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50px"></h2>
  </div>
+ 
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=itssam0&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=itssam0&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itssam0&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
-
-
-
+  <a href="https://www.codewars.com/users/itssam0">
+    <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=itssam0&theme=dark" alt="Github Readme Codewars" />
+  </a>
 </div>
 
 
