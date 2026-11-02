@@ -37,7 +37,7 @@ Working on an open source data project, or want a second pair of hands on a pipe
   <a href="https://github.com/sacostaa1"><img src="./assets/btn-github.svg" alt="Collaborate on GitHub" height="44" /></a>
 </p>
 
-<sub>Spanish (native) · English · Portuguese (learning)</sub>
+<sub>Spanish (native) · English (Advance)· Portuguese (learning)</sub>
 
 <br /><br />
 
