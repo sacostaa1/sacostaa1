@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 64" width="1280" height="64">
+<defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#22D3EE" stop-opacity="0.55"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></linearGradient>
+<linearGradient id="p" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#A5F3FC"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+<text x="0" y="38" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="14" fill="#22D3EE" letter-spacing="2">04</text>
+<text x="44" y="39" font-family="'Inter','Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="600" fill="#8B98A9" letter-spacing="-0.3">Connect</text>
+<line x1="0" y1="62" x2="1280" y2="62" stroke="#8B98A9" stroke-opacity="0.18"/>
+<line x1="0" y1="62" x2="560" y2="62" stroke="url(#l)" stroke-width="1.5"/>
+<rect x="-140" y="61" width="140" height="2" fill="url(#p)"><animate attributeName="x" values="-140;1280" dur="5s" repeatCount="indefinite"/></rect>
+</svg>

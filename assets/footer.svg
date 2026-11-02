@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 90" width="1280" height="90">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#22D3EE" stop-opacity="0"/><stop offset="0.5" stop-color="#22D3EE" stop-opacity="0.6"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></linearGradient></defs>
+<line x1="240" y1="20" x2="1040" y2="20" stroke="url(#g)"/>
+<text x="640" y="62" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="13" letter-spacing="3" fill="#7D8B9E">RAW  →  REFINED  →  SHARED</text>
+</svg>
