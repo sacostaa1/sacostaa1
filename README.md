@@ -34,7 +34,8 @@ Working on an open source data project, or want a second pair of hands on a pipe
 
 <p>
   <a href="mailto:samuelacostaaristizabal1@gmail.com"><img src="./assets/btn-email.svg" alt="Email me" height="44" /></a>&nbsp;
-  <a href="https://github.com/sacostaa1"><img src="./assets/btn-github.svg" alt="Collaborate on GitHub" height="44" /></a>
+  <a href="https://github.com/sacostaa1"><img src="./assets/btn-github.svg" alt="Collaborate on GitHub" height="44" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/samuelacostaaz"><img src="./assets/btn-linkedin.svg" alt="LinkedIn" height="44" /></a>
 </p>
 
 <sub>Spanish (native) · English (Advance)· Portuguese (learning)</sub>
