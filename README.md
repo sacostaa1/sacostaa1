@@ -1,114 +1,46 @@
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+welcome+to+my+Github+page;I'm+Sam;I'm+software+engineering)](https://git.io/typing-svg)
-
-<h3 align="center">Junior fullstack developer</h3>
-
-[![](https://visitcount.itsvg.in/api?id=itssam0&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div>
-
-#### I'm Sam Acosta! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-
-
-A Software engineering student at EAFIT University...                     
-
-It encourages me to develop my
-knowledge and skills for
-professional growth. I'm passionate about
-Programming and learning.
-
-How to reach me **sacostaa1@eafit.edu.co** / **samuelacostaaristizabal1@gmail.com**
-
-
-
-
-<br>
-<hr>
-
-### Languages 🌎
-- Spanish (Native Speaker)
-- **English** (B1 Intermediate)
-- Portuguese (Newbie, currently learning it)
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
-<div align="center">
-    <h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp; GitHub Analytics</h3>
-</div>
-
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=sacostaa1&theme=dark&hide_border=true&include_all_commits=false&count_private=false" 
-         alt="GitHub Stats" />  
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sacostaa1&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&langs_count=8" 
-         alt="Top Languages" />
-</div>
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
-<div align="center">
-<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Languages I know</h2>
- </div>
- <br>
 <p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,,js,ts,,py,php,r" />
-  </a>
-</p>
-<br>
-
-<div align="center">
-<h2>Tech & Tools Preference</h2>
- </div>
- 
- <div align="center">
-<h6>Web</h6>
- </div>
- 
- <p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=react,django,flutter,nodejs,angular,,html,css,sass,,bootstrap" />
-  </a>
+  <img src="./assets/hero.svg" alt="Samuel Acosta · Data Engineer · Building data tools in the open" width="100%" />
 </p>
 
-<hr>
+<br />
 
+<img src="./assets/h-about.svg" alt="01 About" width="100%" />
 
-<div align="center">
+I'm a **Data Engineer** based in Medellín, Colombia. I build pipelines that turn raw, messy data into datasets people can trust, and I care as much about how data is validated as about how it moves.
 
-<table style="border-collapse: collapse; border: 0;">
-  <tr>
-    <td align="center" style="border: 0;"><h6>Database</h6></td>
-    <td align="center" style="border: 0;"><h6>DevOps</h6></td>
-    <td align="center" style="border: 0;"><h6>Operating Systems</h6></td>
-  </tr>
-  <tr>
-    <td align="center" style="border: 0;"><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite" /></td>
-    <td align="center" style="border: 0;"><img src="https://skillicons.dev/icons?i=gcp,aws,azure" /></td>
-    <td align="center" style="border: 0;"><img src="https://skillicons.dev/icons?i=linux,windows,mint" /></td>
-  </tr>
-</table>
+I believe the best data tooling is built **in the open**. That's where I spend my time: learning from the community, contributing back, and sharing what I build along the way.
 
-   
-</div>
+<br />
 
+<img src="./assets/h-focus.svg" alt="02 Focus" width="100%" />
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-<div align="center">
- 
-<h2> CodeWars  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50px"></h2>
- </div>
- 
-<div align="center">
-  <a href="https://www.codewars.com/users/itssam0">
-    <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=sacostaa1&theme=dark" alt="Github Readme Codewars" />
-  </a>
-</div>
+<p align="center">
+  <img src="./assets/focus.svg" alt="Pipelines · Data quality · Open source" width="100%" />
+</p>
 
+<br />
 
+<img src="./assets/h-toolkit.svg" alt="03 Toolkit" width="100%" />
 
+<p align="center">
+  <img src="./assets/toolkit.svg" alt="Toolkit: Python, PySpark, SQL, Pandas, AWS Glue, Amazon S3, AWS Lambda, Amazon RDS, Databricks, GCP Dataproc, PostgreSQL, MongoDB, FastAPI, Streamlit, Docker, Git" width="100%" />
+</p>
 
+<br />
 
+<img src="./assets/h-connect.svg" alt="04 Connect" width="100%" />
 
+Working on an open source data project, or want a second pair of hands on a pipeline? I'd like to hear about it.
+
+<p>
+  <a href="mailto:samuelacostaaristizabal1@gmail.com"><img src="./assets/btn-email.svg" alt="Email me" height="44" /></a>&nbsp;
+  <a href="https://github.com/sacostaa1"><img src="./assets/btn-github.svg" alt="Collaborate on GitHub" height="44" /></a>
+</p>
+
+<sub>Spanish (native) · English · Portuguese (learning)</sub>
+
+<br /><br />
+
+<p align="center">
+  <img src="./assets/footer.svg" alt="Raw → Refined → Shared" width="100%" />
+</p>
